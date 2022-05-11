@@ -1,8 +1,8 @@
+import './App.css';
+
 import React, {  useState } from 'react';
 import { Container, Form, Table } from 'react-bootstrap';
-
 import SearchResults from './components/SearchResults';
-import './App.css';
 
 
 function App() {
